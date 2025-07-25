@@ -23,7 +23,6 @@ The code is structured into modular Python files for better organization and reu
 
 ```
 .
-├── venv/
 ├── data_loader.py          # Loads the dataset
 ├── data_preprocessor.py    # Cleans and preprocesses the data
 ├── model_trainer.py        # Trains and evaluates the models
