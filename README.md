@@ -10,6 +10,12 @@ This project demonstrates a complete machine learning workflow for predicting cu
 
 The code is structured into modular Python files for better organization and reusability.
 
+## Project Demo
+
+Watch a full video walkthrough and explanation of this project on YouTube:
+
+**[https://youtu.be/hz6op6FwvaY](https://youtu.be/hz6op6FwvaY)**
+
 ## Features
 
 - **Modular Code:** The project is broken down into separate files for data loading, preprocessing, visualization, and model training.
